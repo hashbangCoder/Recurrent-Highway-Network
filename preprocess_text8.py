@@ -1,4 +1,4 @@
-# Modified from origianl code from https://github.com/julian121266/RecurrentHighwayNetworks/blob/master/data/create_text8.py
+# Original code from https://github.com/julian121266/RecurrentHighwayNetworks/blob/master/data/create_text8.py
 
 from __future__ import division, print_function, unicode_literals
 import numpy as np
